@@ -7,3 +7,5 @@ Weighted Mean/
 Mode/
 Variance/
 Standard Deviation/
+
+Technologies:  <img src="https://github.com/user-attachments/assets/2c26ac37-f89e-4b29-972e-9b8f7661c0c5" width="150" alt="Logo">
